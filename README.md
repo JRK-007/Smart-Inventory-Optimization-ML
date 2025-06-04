@@ -81,7 +81,7 @@ seaborn
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/smart-inventory-optimization.git
+git clone https://github.com/JRK-007/Smart-Inventory-Optimization-ML.git
 cd smart-inventory-optimization
 pip install -r requirements.txt
 ```
