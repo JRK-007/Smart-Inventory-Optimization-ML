@@ -39,10 +39,9 @@ The project compares and evaluates five powerful ML algorithms for inventory cla
 
 ## 🔧 Technology Stack
 
-- **Backend**: Python, Flask
+- **Backend**: Python
 - **Machine Learning**: scikit-learn, pandas, numpy
 - **Database**: SQL-based DBMS
-- **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: Feature engineering and preprocessing pipelines
 
 ## 📈 Dataset Features
