@@ -145,8 +145,8 @@ For comprehensive understanding of the theoretical foundation, refer to the comp
 For questions or collaboration opportunities, please reach out:
 
 📧 **Email**: [tomyblog007@gmail.com]
-🐙 **GitHub**: [@JRK-007]
-💼 **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/rahul-krishna-j/)]
+🐙 **GitHub**: [[@JRK-007](https://github.com/JRK-007)]
+💼 **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/rahul-krishna-j/)]
 
 Feel free to open GitHub issues for bug reports, feature requests, or general discussions about the project.
 
