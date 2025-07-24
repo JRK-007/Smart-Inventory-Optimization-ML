@@ -120,6 +120,7 @@ This implementation is based on the research paper:
 ## 🤝 Contributing
 ## Project contributions :
 [Naveen Sarvan Kumar](https://github.com/naveen26200544)
+
 [Srinivas NV](https://github.com/SrinivasNv2005)
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
